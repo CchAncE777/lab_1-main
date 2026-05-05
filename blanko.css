@@ -1,0 +1,62 @@
+/*Header*/
+
+a{
+    text-decoration: none;
+}
+
+header a{
+    color: white;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.highlighter1 {
+    background-color: black;
+    width: 1920;
+    height: 81;
+    margin: 0 auto;
+}
+
+
+.higllighter2 {
+    background-color: #FF7143;
+    width: 1920;
+    height: 732;
+    margin: 0 auto;
+}
+
+/*main*/
+
+.highlighter3 {
+    background-color: black;
+    width: 1920;
+    height: 603;
+    margin: 0 auto;
+}
+
+.main-DRUK {
+    color: white;
+}
+
+.main-square {
+    height: 16px;
+    width: 16px;
+    background-color: white, 40%;
+}
+
+/*footer*/
+
+.footer-highlighter {
+    background-color: black;
+    width: 1920;
+    height: 334;
+    margin: 0 auto;
+}
+
+footer a{
+    color: white;
+}
